@@ -1,4 +1,4 @@
-package company.token.ha.hatoken.activity
+package company.token.ha.hatoken.main.view.activity
 
 import android.content.Context
 import android.content.Intent
